@@ -13,3 +13,5 @@ The Windows Command Processor, cmd.exe, is a critical system tool. It is used to
 7. Write a simple search query using the Elastic Query Language 	Novice
 8. Write ELK filters that detects simple attacks
 
+Working with elastic search commands:
+1. sudo systemctl status elsaticsearch (status/start/kill.enable)
