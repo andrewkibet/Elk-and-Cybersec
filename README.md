@@ -21,6 +21,6 @@ Sometimes a  problem: the agent is still using an invalid API key. The Windows i
 
 
 
-
+**Create a Kibana Dashboard to show the number of times powershell.exe was run as a process**
 In this exercise, we configured a Windows system to collect PowerShell process activity using Sysmon and Elastic Agent and visualize the collected events in Kibana. We created a dynamic dashboard with a line graph showing PowerShell usage over time, a bar graph showing PowerShell activity by host, and a bar graph showing PowerShell executions with administrator privileges. The dashboard can be viewed across different time ranges, including the last hour, 24 hours, and seven days. The purpose of the exercise was to demonstrate how security telemetry can be visualized and used to monitor PowerShell activity for future threat-hunting investigations.
 
