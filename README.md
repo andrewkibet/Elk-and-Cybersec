@@ -15,3 +15,6 @@ The Windows Command Processor, cmd.exe, is a critical system tool. It is used to
 
 Working with elastic search commands:
 1. sudo systemctl status elsaticsearch (status/start/kill.enable)
+
+
+Sometimes a  problem: the agent is still using an invalid API key. The Windows integration is fine, Sysmon is fine, but nothing can reach Elasticsearch until authentication works.
