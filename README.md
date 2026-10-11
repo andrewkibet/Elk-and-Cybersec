@@ -1,5 +1,6 @@
 # Elk-and-Cybersec
 
+<<<<<<< Updated upstream
 The Windows Command Processor, cmd.exe, is a critical system tool. It is used to interpret commands entered by the user and then carry out the appropriate actions. In addition, it provides a scripting language that can be used to automate tasks. Because of its importance, it is essential to monitor cmd.exe usage. There are a number of reasons why monitoring cmd.exe usage is important. First, because of its power, cmd.exe can be used to perform harmful actions on a system. Second, because it is a scripting language, malicious users can use it to create scripts that perform unwanted or harmful actions 
 
 
@@ -42,3 +43,5 @@ In this exercise, we configured a Windows system to collect PowerShell process a
 
 A security analyst uses ELK SIEM to detect and prevent cyberattacks. ELK SIEM allows the security analyst to collect and analyze data from a variety of sources, including network traffic, firewalls, and endpoint devices. The security analyst can use this data to identify patterns that may indicate a cyberattack. ELK SIEM also helps the analyst to track and respond to incidents quickly and effectively. 
 
+=======
+>>>>>>> Stashed changes
